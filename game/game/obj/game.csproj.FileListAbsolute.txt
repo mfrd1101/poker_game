@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\game\game\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\game\game\bin\Debug\game.exe
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\game\game\bin\Debug\game.pdb
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\game\game\obj\Debug\game.exe
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\game\game\obj\Debug\game.pdb
